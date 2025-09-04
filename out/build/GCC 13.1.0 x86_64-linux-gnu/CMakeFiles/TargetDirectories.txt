@@ -1,0 +1,3 @@
+/home/tarik/Projects/x/out/build/GCC 13.1.0 x86_64-linux-gnu/CMakeFiles/Ascii.dir
+/home/tarik/Projects/x/out/build/GCC 13.1.0 x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/home/tarik/Projects/x/out/build/GCC 13.1.0 x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir

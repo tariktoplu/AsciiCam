@@ -1,0 +1,1 @@
+/usr/bin/g++-13 -g CMakeFiles/Ascii.dir/main.cpp.o -o Ascii

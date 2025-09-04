@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tarik/Projects/x/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Ascii.dir/main.cpp.o -c /home/tarik/Projects/x/main.cpp",
+  "file": "/home/tarik/Projects/x/main.cpp",
+  "output": "CMakeFiles/Ascii.dir/main.cpp.o"
+}
+]

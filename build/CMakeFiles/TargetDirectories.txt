@@ -1,0 +1,3 @@
+/home/tarik/Projects/x/build/CMakeFiles/Ascii.dir
+/home/tarik/Projects/x/build/CMakeFiles/edit_cache.dir
+/home/tarik/Projects/x/build/CMakeFiles/rebuild_cache.dir
