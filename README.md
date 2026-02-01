@@ -258,12 +258,6 @@ Katkılar daima hoştur!
 
 ---
 
-## 📝 Lisans
-
-MIT License - [LICENSE](LICENSE) dosyasına bakın.
-
----
-
 ## 💬 İletişim
 
 - 📧 Email: tarikttoplu@gmail.com
